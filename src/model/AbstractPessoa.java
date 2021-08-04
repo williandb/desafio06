@@ -14,4 +14,6 @@ public abstract class AbstractPessoa {
         this.endereco = endereco;
         this.telefone = telefone;
     }
+
+
 }
