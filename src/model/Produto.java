@@ -51,11 +51,11 @@ public class Produto implements Vendavel {
 
     @Override
     public BigDecimal getValorUnitario() {
-        return null;
+        return this.valorUnitario;
     }
 
     @Override
     public String getDescricao() {
-        return null;
+        return this.descricao;
     }
 }
